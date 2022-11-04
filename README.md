@@ -1,6 +1,6 @@
 # dissertation_code_Fall2022
 
-This is a repository of the code used in the disseration "WHAT MAKES IXODES SCAPULARIS TICK: POPULATION GENOMICS AND SEX DIFFERENCES OF THE BLACKLEGGED TICK" bu Julia Catherine Frederick 
+This is a repository of the code used in the disseration "WHAT MAKES IXODES SCAPULARIS TICK: POPULATION GENOMICS AND SEX DIFFERENCES OF THE BLACKLEGGED TICK" by Julia Catherine Frederick 
 
 All sequencing data is available in the following repositories and will be released at time of journal publication.
 
