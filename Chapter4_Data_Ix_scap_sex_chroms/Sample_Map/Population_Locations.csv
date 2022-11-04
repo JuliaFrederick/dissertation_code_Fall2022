@@ -1,0 +1,6 @@
+﻿location,state,county,fips,latitude,longitude,male,female,total
+"Osceola County, FL",FL,osceola,12097,28.102,-81.0755,3,3,6
+"Rapides County, LA",LA,rapides,22079,31.1461,-92.5396,3,3,6
+"Washington County, RI",RI,washington,44009,41.4568,-71.6673,3,3,6
+"Aiken County, SC",SC,aiken,45003,33.2464,-81.6679,3,3,6
+"Monroe County, WI",WI,monroe,55081,44.0127,-90.6884,3,3,6
