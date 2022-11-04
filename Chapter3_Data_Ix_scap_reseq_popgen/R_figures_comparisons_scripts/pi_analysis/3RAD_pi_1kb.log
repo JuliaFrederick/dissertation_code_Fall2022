@@ -1,0 +1,14 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf 3RAD_m90_6x150x_GQ30_maf05_ma2.recode.vcf.gz
+	--out 3RAD_pi_1kb
+	--window-pi 1000
+
+Using zlib version: 1.2.11
+After filtering, kept 30 out of 30 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+After filtering, kept 41827 out of a possible 41827 Sites
+Run Time = 1.00 seconds
